@@ -62,18 +62,13 @@ I'm currently pursuing BSc. Engineering in CSE at KUET. I'm always eager to lear
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShormiGhosh&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ShormiGhosh&theme=tokyonight)
 
 ---
 
 ## 🏆 GitHub Trophies
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=ShormiGhosh&theme=radical&no-frame=true&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🔥 GitHub Streak
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShormiGhosh&theme=radical)](https://git.io/streak-stats)
 
 ---
 
