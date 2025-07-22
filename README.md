@@ -7,7 +7,7 @@
 ---
 
 ## 🌀 About Me:
-I'm currently pursuing BSc. Engineering in CSE at KUET. I'm always eager to learn new technologies, enjoy solving real-world problems through code and creating impactful tools!
+I'm currently pursuing BSc. Engineering in CSE at Khulna University of Engineering and Technology (KUET). I'm always eager to learn new technologies, enjoy solving real-world problems through code and creating impactful tools!
 
 ---
 
