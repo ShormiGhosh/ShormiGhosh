@@ -1,5 +1,3 @@
-# Shormi-Ghosh
-
 <h1 align="center">Hi there, I'm Shormi Ghosh</h1>
 
 <p align="center">
