@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Shormi Ghosh</h1>
 
 <p align="center">
-  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: transparent;" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="200">
+  <img style="-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: transparent;" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="200">
 </p>
 
 ---
