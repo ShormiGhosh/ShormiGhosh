@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Shormi Ghosh</h1>
 
 <p align="center">
-  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);" src="https://ggj.s3.amazonaws.com/featured_image/2023/02/717432/ezgif-1-2d3c817495.gif" width="200">
+  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif" width="200">
 </p>
 
 ---
@@ -64,10 +64,8 @@ I'm currently pursuing BSc. Engineering in CSE at KUET. I'm always eager to lear
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ShormiGhosh&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShormiGhosh&theme=tokyonight)
 
 ---
-
 
 ## 🏆 GitHub Trophies
 
