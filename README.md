@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm Shormi Ghosh</h1>
 
 <p align="center">
-  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);" src="https://res.cloudinary.com/practicaldev/image/fetch/s--fSgJfqjT--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ecpp8mtv96lw6sbxty6p.gif" width="200">
+  <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-out;background-color: hsl(0, 0%, 90%);" src="https://ggj.s3.amazonaws.com/featured_image/2023/02/717432/ezgif-1-2d3c817495.gif" width="200">
 </p>
 
 ---
